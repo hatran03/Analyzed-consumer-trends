@@ -1,1 +1,8 @@
-# hatran03-Analyzed-consumer-trends
+Project: Customer Consumption Trend Analysis for TechStore USA
+The project aims to analyze customer consumption trends at TechStore USA. By utilizing customer data, sales data, and other business metrics, we can gain a deeper understanding of customer purchasing behavior, enabling smarter and more effective business decisions.
+
+The project will be developed through the following steps: setting up the environment and loading data, cleaning and preprocessing data, and reporting and visualizing insights. Initially, we will install the necessary packages, load the dataset, and display the data table for an overview. Next, we will clean the data by removing unnecessary rows or columns, and filling in or removing missing values. We will also enrich the data by merging or appending additional attributes or objects, and calculating new columns based on existing attributes. Finally, we will analyze the processed data to report and visualize business insights, focusing on customer consumption trends.
+
+The analysis will provide insights into key factors influencing customer purchasing decisions, popular product categories, sales trends over time, customer demographics and purchasing patterns, and sales performance across different regions and stores. By understanding these trends, TechStore USA can tailor marketing strategies to target specific customer segments, optimize inventory management to meet customer demand, improve customer satisfaction by offering products that align with their preferences, and enhance overall business performance through data-driven decisions.
+
+The project is expected to deliver actionable insights that can drive business growth, support the company's strategic planning and operational improvements, and foster a data-driven culture within the organization, leading to continuous innovation and better customer service.
